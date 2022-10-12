@@ -1,4 +1,4 @@
-# MakeRepoPrivateOrPublic
+# MakeRepoPrivateOrPublicOrDelete
 ### How to make repo private or public or delete it.
 
 Step 1: 
