@@ -32,7 +32,7 @@ Sometimes, we might need to refresh the page here.
 
 Step 7:
 Click on the <b> Change visibility </b> if you want to make public or private.
-Click on the <b> Delete this reposiory </b> if you want to delete the repo.
+If you want to delete the repo then click on the <b> Delete this reposiory </b> 
 
 <img width="819" alt="7" src="https://user-images.githubusercontent.com/30682516/195388376-76ca7567-55c8-4dc6-a31d-a4807e80c905.png">
 
